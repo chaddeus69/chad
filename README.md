@@ -1,4 +1,4 @@
-<h1 align="center">Hello :}, I'm 3xm4ch1nw</h1>
+<h1 align="center">Hello :}, I'm ChadDeus</h1>
 <h3 align="center">a sort of passionate dev, you might know.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3xm4ch1nw&label=Profile%20views&color=0e75b6&style=flat" alt="3xm4ch1nw" /> </p>
